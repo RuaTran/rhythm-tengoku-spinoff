@@ -1,7 +1,7 @@
 # みんなのリズム天国 Spinoff
 This is a small personal project made for a friend that is a game in the style of みんなのリズム天国 over two days, It currently features one rhythm minigame, and gameplay consists of timed button pushes to music. With the exception of the hiragana and katakana sprites and the music, all sprites and animations were done by me.
 
-Despite it not being perfect, I'm sharing this so that others can potentially learn from the project's code.
+It would be fun to turn this project into a full-fledged customizable editor, but to do so would require a lot effort and there are a lot of similar projects currently in the same vein. Despite it not being perfect, I'm sharing this so that others can potentially learn from the project's code.
 
 [Here is a video of gameplay](https://www.youtube.com/watch?v=mxJKxtRK27U)
 
